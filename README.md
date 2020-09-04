@@ -22,6 +22,6 @@ Using the weather data of past 15 days of perticular Location ML model can able 
 # In This task 
 *I Downloaded the weather data Of Banglore Location(www.visualcrossing.com)
 *And Followed the Steps mention Above 
-Refer 
+*Refer https://github.com/sahanabalappa/MachineLearning_Task1/blob/master/weatherdata_complete.ipynb for more details
 
 
